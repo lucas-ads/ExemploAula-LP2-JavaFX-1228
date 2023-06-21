@@ -6,4 +6,5 @@ module AulaJavaFX1228 {
 	
 	opens application to javafx.graphics, javafx.fxml;
 	opens controllers to javafx.fxml;
+	opens entidades to javafx.base;
 }
